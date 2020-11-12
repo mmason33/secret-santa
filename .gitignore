@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.editorconfig
+data-generator/.env
+data-generator/data.json
+data-generator/service-account.json
+data-generator/collections.js
